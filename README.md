@@ -49,3 +49,4 @@ Toda la documentación del proyecto se encuentra en el siguiente repositorio:
 * Commits descriptivos
 * Pull Requests para integración
 * Comunicación constante del equipo
+[Pautas de Trabajo](https://docs.google.com/document/d/1fPNLQwjkDx_Cp7u7ijTiUVXdQUHgiPEIUI9Cu5qknBE/edit?usp=sharing)
